@@ -67,7 +67,7 @@ negative quantities · order lines pointing at non-existent products.
 ## Quick start
 
 ```bash
-git clone <your-repo-url> && cd ecommerce-elt-pipeline
+git clone <Kofo-pix> && cd ecommerce-elt-pipeline
 make run            # extract -> load -> transform -> quality  (no installs needed)
 make analysis       # run business-question queries (needs the sqlite3 CLI)
 
